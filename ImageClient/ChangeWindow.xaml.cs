@@ -19,6 +19,10 @@ namespace ImageClient
     /// ChangeWindow.xaml 的交互逻辑
     /// </summary>
     /// //sssssssssssss
+    /// /ssssd
+    /// 
+    //sfdfdfsfas
+    ///我又来了
     public partial class ChangeWindow : Window
     {
         public WebClient client;
